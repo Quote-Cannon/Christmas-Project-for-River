@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/background.jpg","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",373309,8294485,1.287157
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/continue.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/continue.xnb","TextureProcessor","Texture2DContent",18446,49237,0.0190009
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/exit.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/exit.xnb","TextureProcessor","Texture2DContent",18563,49237,0.0199994
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/franknife.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/franknife.xnb","TextureProcessor","Texture2DContent",15488,65621,0.0299999
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/newgame.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/newgame.xnb","TextureProcessor","Texture2DContent",18042,49237,0.0069992
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/pixel.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/pixel.xnb","TextureProcessor","Texture2DContent",119,89,0.0029998
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/settings.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/settings.xnb","TextureProcessor","Texture2DContent",18552,49237,0.0109995

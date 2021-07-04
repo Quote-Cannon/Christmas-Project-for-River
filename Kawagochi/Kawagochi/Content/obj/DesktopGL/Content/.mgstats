@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/background.jpg","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",373309,8294485,1.6924767
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/borger.gif","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/borger.xnb","TextureProcessor","Texture2DContent",57173,1242085,0.6407559
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/continue.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/continue.xnb","TextureProcessor","Texture2DContent",18446,49237,0.8150745
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/defaultFont.spritefont","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/defaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2425,1053730,0.6561717
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/exit.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/exit.xnb","TextureProcessor","Texture2DContent",18563,49237,0.005503
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/franknife.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/franknife.xnb","TextureProcessor","Texture2DContent",15488,65621,2.8657467
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/newgame.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/newgame.xnb","TextureProcessor","Texture2DContent",18042,49237,0.0055431
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/pixel.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/pixel.xnb","TextureProcessor","Texture2DContent",119,89,2.7329264
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/settings.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/settings.xnb","TextureProcessor","Texture2DContent",18552,49237,0.0056203
+"C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/title.png","C:/Users/User/source/repos/Kawagochi/Kawagochi/Content/bin/DesktopGL/Content/title.xnb","TextureProcessor","Texture2DContent",25084,1702165,0.3825848

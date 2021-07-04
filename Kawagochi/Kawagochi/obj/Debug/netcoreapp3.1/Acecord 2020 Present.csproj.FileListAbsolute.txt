@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\background.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\continue.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\defaultFont.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\exit.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\franknife.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\newgame.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\pixel.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\settings.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.exe
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.deps.json
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.runtimeconfig.json
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.runtimeconfig.dev.json
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Acecord 2020 Present.pdb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.AssemblyInfo.cs
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.csproj.CopyComplete
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.dll
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.pdb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.genruntimeconfig.cache
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\title.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\bin\Debug\netcoreapp3.1\Content\borger.xnb
+C:\Users\User\source\repos\Kawagochi\Kawagochi\obj\Debug\netcoreapp3.1\Acecord 2020 Present.csprojAssemblyReference.cache
